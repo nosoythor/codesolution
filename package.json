@@ -1,0 +1,11 @@
+{
+  "name": "payroll",
+  "version": "1.0.0",
+  "description": "This is a version of a program that help HR to know vacations days",
+  "main": "default.js",
+  "scripts": {
+    "dev": "node default.js"
+  },
+  "author": "nosoythor",
+  "license": "MIT"
+}
